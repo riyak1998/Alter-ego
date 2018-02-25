@@ -19,4 +19,14 @@ Inadequate sleep, depression and smoking were the leading unhealthy behaviors am
 ## Problem statement:
 Adolescents need to be treated as a distinct segment of our population and it is important to realize and address their health and lifestyle problems. Immediate actions must be taken for a better future. Common issues such as depression, lack of confidence, peer pressure, drugs and alcoholism, puberty health problems, studies related issues, and premature and unprotected physical relationships, must be addressed with special care and proper knowledge. But not every individual is able to seek help from parents, counselors and psychiatrists. This leads to wrong decisions and in worst case self-destruction thoughts. 
 
+## Solution proposed:
+61% percent boys and 53% girls in the age group of 15-19 (National Sample Survey, 66th Round, 2013) are enrolled in schools and these numbers are likely to increase making schools important spaces for reaching out to adolescents. The power of technology could be used in an attempt of solving this issue. A web application could be built for students providing a platform where they could:
+●    Read and learn about adolescent education 
+●    Read about common issues faced by them and pieces of advice given by psychiatrists
+●    Seek help by connecting directly with professional advisers and psychiatrists and discuss their problems without disclosing their identity
+●    Learn healthy practices such as yoga and meditation which could improve their lifestyle
+●    Seek for recovery and rehabilitation if they have abused drugs, smoking or have been involved in other such unhealthy practices
+
+
+
 
