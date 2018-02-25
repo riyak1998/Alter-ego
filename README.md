@@ -16,5 +16,7 @@ Most adolescents with lifestyle issues fell in the age group of 16–18 years. F
 ## Conclusion:
 Inadequate sleep, depression and smoking were the leading unhealthy behaviors among the respondents. Problems in dealing with sudden puberty changes lead to self-consciousness, lack of confidence. Also adolescence is a time when many people first engage in sexual activity, potentially increasing their risk of unplanned pregnancy and unsafe abortion as well as of sexually transmitted infections (STIs), including HIV/AIDS. Families can play an important role to help these adolescents live a better healthier life. But something more needs to be done to address these issues urgently.
 
+## Problem statement:
+Adolescents need to be treated as a distinct segment of our population and it is important to realize and address their health and lifestyle problems. Immediate actions must be taken for a better future. Common issues such as depression, lack of confidence, peer pressure, drugs and alcoholism, puberty health problems, studies related issues, and premature and unprotected physical relationships, must be addressed with special care and proper knowledge. But not every individual is able to seek help from parents, counselors and psychiatrists. This leads to wrong decisions and in worst case self-destruction thoughts. 
 
 
