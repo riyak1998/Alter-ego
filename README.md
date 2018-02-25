@@ -13,4 +13,8 @@ As a part of our trek for the HACKEAM'18, we decided to visit our respective sch
 ## Result:
 Most adolescents with lifestyle issues fell in the age group of 16–18 years. Females were more depressed than males and had more sleep problems. Substance abuse and other addictions were documented more in males. Watching television or listening to music was stated as the most common late-night activity (61.8%) and therefore was also referred to as the contributory factor for less than eight hours of sleep each day. (58.9%) of the respondents are getting less than eight hours of sleep daily. (41.5%) of the respondents who felt depressed sought treatment for it. Quite a few of them were also indulged in substance abuse and other addictions. Only (16.8%) of the respondents opined that physical activity is essential for health. 25% of the respondents out of all were smoking cigarettes currently, whereas 7% of the respondents chewed paan (areca nut). Peer pressure was the most common reason (60%) to start smoking.
 
+## Conclusion:
+Inadequate sleep, depression and smoking were the leading unhealthy behaviors among the respondents. Problems in dealing with sudden puberty changes lead to self-consciousness, lack of confidence. Also adolescence is a time when many people first engage in sexual activity, potentially increasing their risk of unplanned pregnancy and unsafe abortion as well as of sexually transmitted infections (STIs), including HIV/AIDS. Families can play an important role to help these adolescents live a better healthier life. But something more needs to be done to address these issues urgently.
+
+
 
