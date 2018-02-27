@@ -10,9 +10,9 @@ const session=require('express-session');
 const bcrypt=require('bcrypt');
 let config={
   "host":'localhost',
-  "user":'webDriya',
-  "password":'123456789',
-  "database":'epiphany'
+  "user":"USER_NAME",
+  "password":'PASSWORD',
+  "database":'DATABASE_NAME'
 };
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
