@@ -28,5 +28,12 @@ Adolescents need to be treated as a distinct segment of our population and it is
  * Seek for recovery and rehabilitation if they have abused drugs, smoking or have been involved in other such unhealthy practices
 
 ## Some screenshots from the website:
+
+##### Landing Page:
 ![Landing page](https://github.com/riyak1998/Alter-ego/blob/master/public/Screenshot%20from%202018-02-28%2003-16-46.png)
 
+##### about:
+ ![About](Alter-ego/public/Screenshot from 2018-02-28 03-17-04.png)
+ 
+##### Sign-in:
+![Sign-in](Alter-ego/public/Screenshot from 2018-02-28 03-16-51.png)
