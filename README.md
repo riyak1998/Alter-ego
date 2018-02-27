@@ -33,7 +33,7 @@ Adolescents need to be treated as a distinct segment of our population and it is
 ![Landing page](https://github.com/riyak1998/Alter-ego/blob/master/public/Screenshot%20from%202018-02-28%2003-16-46.png)
 
 ##### about:
- ![About](Alter-ego/public/Screenshot from 2018-02-28 03-17-04.png)
+ ![About](https://github.com/riyak1998/Alter-ego/blob/master/public/Screenshot%20from%202018-02-28%2003-17-04.png)
  
 ##### Sign-in:
-![Sign-in](Alter-ego/public/Screenshot from 2018-02-28 03-16-51.png)
+![Sign-in](https://github.com/riyak1998/Alter-ego/blob/master/public/Screenshot%20from%202018-02-28%2003-16-51.png)
