@@ -27,6 +27,6 @@ Adolescents need to be treated as a distinct segment of our population and it is
  * Learn healthy practices such as yoga and meditation which could improve their lifestyle
  * Seek for recovery and rehabilitation if they have abused drugs, smoking or have been involved in other such unhealthy practices
 
-
-
+## Some screenshots from the website:
+![Landing page](https://drive.google.com/file/d/1FitvF_QNGdTFHmTYYCBWb-W0im0kgYZd/view?usp=sharing)
 
